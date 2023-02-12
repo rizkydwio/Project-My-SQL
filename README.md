@@ -2,8 +2,9 @@ PROJECT MY SQL
 
 Tujuan Pengerjaan Project
 1. Mengatahui penjualan terbanyak berdasarkan kategori produk
-2. Mengatahui 3 penjualan terbanyak yang paling diminati
+2. Mengetahui penjualan terendah berdasarkan kategori produk
 3. Pembayaran yang paling sering digunakan
+4. Melihat rata-rata penjualan tertinggi berdasarkan kategori produk
 
 Hasil Test
 1. Menginport library yang akan di gunakan
